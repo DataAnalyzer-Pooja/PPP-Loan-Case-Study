@@ -1,0 +1,56 @@
+Field Name,Field Description
+LoanNumber,Loan Number (unique identifier)
+DateApproved,Loan Funded Date
+SBAOfficeCode,SBA Origination Office Code
+ProcessingMethod,Loan Delivery Method (PPP for first draw; PPS for second draw)
+BorrowerName,Borrower Name
+BorrowerAddress,Borrower Street Address
+BorrowerCity,Borrower City
+BorrowerState,Borrower State
+BorrowerZip,Borrower Zip Code
+LoanStatusDate,"Loan Status Date
+- Loan Status Date is  blank when the loan is disbursed but not Paid In Full or Charged Off"
+LoanStatus,"Loan Status Description
+- Loan Status is replaced by 'Exemption 4' when the loan is disbursed but not Paid in Full or Charged Off"
+Term,Loan Maturity in Months
+SBAGuarantyPercentage,SBA Guaranty Percentage
+InitialApprovalAmount,Loan Approval Amount(at origination)
+CurrentApprovalAmount,Loan Approval Amount (current)
+UndisbursedAmount,Undisbursed Amount
+FranchiseName,Franchise Name
+ServicingLenderLocationID,Lender Location ID (unique identifier)
+ServicingLenderName,Servicing Lender Name
+ServicingLenderAddress,Servicing Lender Street Address
+ServicingLenderCity,Servicing Lender City
+ServicingLenderState,Servicing Lender State
+ServicingLenderZip,Servicing Lender Zip Code
+RuralUrbanIndicator,Rural or Urban Indicator (R/U)
+HubzoneIndicator,Hubzone Indicator (Y/N)
+LMIIndicator,LMI Indicator (Y/N)
+BusinessAgeDescription,Business Age Description
+ProjectCity,Project City
+ProjectCountyName,Project County Name
+ProjectState,Project State
+ProjectZip,Project Zip Code
+CD,Project Congressional District
+JobsReported,Number of Employees
+NAICSCode,NAICS 6 digit code
+Race,Borrower Race Description
+Ethnicity,Borrower Ethnicity Description
+UTILITIES_PROCEED,Note: Proceed data is lender reported at origination.  On the PPP application the proceeds fields were check boxes.  
+PAYROLL_PROCEED,
+MORTGAGE_INTEREST_PROCEED,
+RENT_PROCEED,
+REFINANCE_EIDL_PROCEED,
+HEALTH_CARE_PROCEED,
+DEBT_INTEREST_PROCEED,
+BusinessType,Business Type Description
+OriginatingLenderLocationID,Originating Lender ID (unique identifier)
+OriginatingLender,Originating Lender Name
+OriginatingLenderCity,Originating Lender City
+OriginatingLenderState,Originating Lender State
+Gender,Gender Indicator
+Veteran,Veteran Indicator
+NonProfit,'Yes' if Business Type = Non-Profit Organization or Non-Profit Childcare Center or 501(c) Non Profit
+ForgivenessAmount,Forgiveness Amount
+ForgivenessDate,Forgiveness Paid Date
