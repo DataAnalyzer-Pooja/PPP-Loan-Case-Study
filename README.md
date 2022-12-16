@@ -9,17 +9,18 @@ The Paycheck Protection Program (PPP) is a $953-billion business loan program es
 # Business Task
 To conduct a data analysis on PPP loans provided by the Small Business Administration (SBA). The analysis should include both statistical analysis and visualizations to understand the distribution and impact of the loans on small businesses.
 Following questions needed to be answered by the analysis:-
-⋅⋅* What industries received the most PPP loans?
-⋅⋅* What was the distribution of loan amounts among different businesses?
-⋅⋅* How did the amount of PPP loans vary by state or region?
-⋅⋅* Which all lenders provided the most PPP loan amount?
-⋅⋅* What was the yearly average loan size for businesses?
-⋅⋅* How did the forgiven amount of PPP loans vary by the approved amount of the loan?
+- What industries received the most PPP loans?
+- What was the distribution of loan amounts among different businesses?
+- How did the amount of PPP loans vary by state or region?
+- Which all lenders provided the most PPP loan amount?
+- What was the yearly average loan size for businesses?
+- How did the forgiven amount of PPP loans vary by the approved amount of the loan?
 
 # Deliverables
 The project includes the following:-
-⋅⋅* A list of csv files containing the following datasets: Data Dictionary, PPP loan data and NAICS Size Standards data. 
-⋅⋅* A SQL code file containing the cleaning and explorartoy data analysis using SQL. 
-⋅⋅* PPP Loan analysis [dashboard](https://public.tableau.com/app/profile/pooja1749/viz/PPPAnalysisDashboard/PPPSummary) using TABLEAU. 
+- A list of [csv files](https://github.com/DataAnalyzer-Pooja/PPP-Loan-Case-Study/tree/main/CSV%20Files) containing the following datasets: Data Dictionary, PPP loan data and NAICS Size Standards data. 
+- A SQL [code file](https://github.com/DataAnalyzer-Pooja/PPP-Loan-Case-Study/blob/main/SQL_Queries_Case_Study_PPP.sql) containing the cleaning and explorartoy data analysis using SQL. 
+- A SQL [code file](https://github.com/DataAnalyzer-Pooja/PPP-Loan-Case-Study/blob/main/SQL_View_Case_Study_PPP.sql) of VIEW created using SQL.
+- PPP Loan analysis [dashboard](https://public.tableau.com/app/profile/pooja1749/viz/PPPAnalysisDashboard/PPPSummary) using TABLEAU. 
 
-... I hope this project helps you understand the PPP loan data and the impact of the program on small businesses. If you have any questions or suggestions, please don't hesitate to reach out.
+I hope this project helps you understand the PPP loan data and the impact of the program on small businesses. If you have any questions or suggestions, please don't hesitate to reach out.
