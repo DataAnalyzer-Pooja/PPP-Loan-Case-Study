@@ -18,7 +18,7 @@ Following questions needed to be answered by the analysis:-
 
 # Deliverables
 The project includes the following:-
-- A list of [csv files](https://github.com/DataAnalyzer-Pooja/PPP-Loan-Case-Study/tree/main/CSV%20Files) containing the following datasets: Data Dictionary, PPP loan data and NAICS Size Standards data. 
+- Datasource of all the input CSV files: [Data Dictionary](https://data.sba.gov/dataset/ppp-foia), [PPP loan data](https://data.sba.gov/dataset/ppp-foia) and [NAICS Size Standards data](https://www.sba.gov/document/support-table-size-standards)
 - A SQL [code file](https://github.com/DataAnalyzer-Pooja/PPP-Loan-Case-Study/blob/main/SQL_Queries_Case_Study_PPP.sql) containing the cleaning and explorartoy data analysis using SQL. 
 - A SQL [code file](https://github.com/DataAnalyzer-Pooja/PPP-Loan-Case-Study/blob/main/SQL_View_Case_Study_PPP.sql) of VIEW created using SQL.
 - PPP Loan analysis [dashboard](https://public.tableau.com/app/profile/pooja1749/viz/PPPAnalysisDashboard/PPPSummary) using TABLEAU. 
