@@ -24,3 +24,5 @@ The project includes the following:-
 - PPP Loan analysis [dashboard](https://public.tableau.com/app/profile/pooja1749/viz/PPPAnalysisDashboard/PPPSummary) using TABLEAU. 
 
 I hope this project helps you understand the PPP loan data and the impact of the program on small businesses. If you have any questions or suggestions, please don't hesitate to reach out.
+- [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
+- [NovyPro](https://www.novypro.com/profile_projects/poojaverma)
